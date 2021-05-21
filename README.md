@@ -1,6 +1,6 @@
 ## Carbonpedia
 Climate Hacks submission project
-# Despost Link
+# Devpost Link
 https://devpost.com/software/carbonpedia
 # Project was made using Adalo 
 # Can be previewed and installed here:
